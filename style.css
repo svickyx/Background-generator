@@ -1,0 +1,28 @@
+body {
+    color: #2a2a2a;
+    font-family: "Times New Roman", serif;
+    background: linear-gradient(to right, #DADDD8, #C7D59F);
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+button {
+    font-size: 1rem;
+    height: 2.5rem;
+    border-radius: 10px;
+    color: #ffffff;
+    background: #000000;
+}
+
+p {
+    font-size: 2rem;
+}
